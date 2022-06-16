@@ -1,0 +1,18 @@
+[
+  {
+    "package": "blockForest",
+    "oncran": true
+  },
+  {
+    "package": "cpi",
+    "oncran": true
+  },
+  {
+    "package": "innsight",
+    "oncran": true
+  },
+  {
+    "package": "neuralnet",
+    "oncran": true
+  }
+]

@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "blockForest"]
+	path = blockForest
+	url = https://github.com/bips-hb/blockforest
+	shallow = true
+	registered = true
+[submodule "cpi"]
+	path = cpi
+	url = https://github.com/bips-hb/cpi
+	shallow = true
+	registered = true
+[submodule "innsight"]
+	path = innsight
+	url = https://github.com/bips-hb/innsight
+	shallow = true
+	registered = true
+[submodule "neuralnet"]
+	path = neuralnet
+	url = https://github.com/bips-hb/neuralnet
+	shallow = true
+	registered = true
