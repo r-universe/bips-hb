@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "micd",
+    "oncran": true
+  },
+  {
     "package": "neuralnet",
     "oncran": true
   }

@@ -18,6 +18,11 @@
 	url = https://github.com/bips-hb/innsight
 	shallow = true
 	registered = true
+[submodule "micd"]
+	path = micd
+	url = https://github.com/bips-hb/micd
+	shallow = true
+	registered = true
 [submodule "neuralnet"]
 	path = neuralnet
 	url = https://github.com/bips-hb/neuralnet
