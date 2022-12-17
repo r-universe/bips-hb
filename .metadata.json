@@ -1,5 +1,9 @@
 [
   {
+    "package": "arf",
+    "oncran": true
+  },
+  {
     "package": "blockForest",
     "oncran": true
   },

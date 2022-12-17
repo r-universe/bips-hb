@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "arf"]
+	path = arf
+	url = https://github.com/bips-hb/arf
+	shallow = true
+	registered = true
 [submodule "blockForest"]
 	path = blockForest
 	url = https://github.com/bips-hb/blockforest
