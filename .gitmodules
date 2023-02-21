@@ -33,3 +33,8 @@
 	url = https://github.com/bips-hb/neuralnet
 	shallow = true
 	registered = true
+[submodule "tpc"]
+	path = tpc
+	url = https://github.com/bips-hb/tpc
+	shallow = true
+	registered = true
