@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "neuralnet"]
-	path = neuralnet
-	url = https://github.com/bips-hb/neuralnet
-	shallow = true
-	registered = true
 [submodule "arf"]
 	path = arf
 	url = https://github.com/bips-hb/arf
@@ -23,9 +18,9 @@
 	url = https://github.com/bips-hb/cpi
 	shallow = true
 	registered = true
-[submodule "tpc"]
-	path = tpc
-	url = https://github.com/bips-hb/tpc
+[submodule "innsight"]
+	path = innsight
+	url = https://github.com/bips-hb/innsight
 	shallow = true
 	registered = true
 [submodule "micd"]
@@ -33,8 +28,13 @@
 	url = https://github.com/bips-hb/micd
 	shallow = true
 	registered = true
-[submodule "innsight"]
-	path = innsight
-	url = https://github.com/bips-hb/innsight
+[submodule "neuralnet"]
+	path = neuralnet
+	url = https://github.com/bips-hb/neuralnet
+	shallow = true
+	registered = true
+[submodule "tpc"]
+	path = tpc
+	url = https://github.com/bips-hb/tpc
 	shallow = true
 	registered = true

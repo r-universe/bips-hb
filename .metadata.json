@@ -1,9 +1,5 @@
 [
   {
-    "package": "neuralnet",
-    "oncran": true
-  },
-  {
     "package": "arf",
     "oncran": true
   },
@@ -16,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "tpc",
+    "package": "innsight",
     "oncran": true
   },
   {
@@ -24,7 +20,11 @@
     "oncran": true
   },
   {
-    "package": "innsight",
+    "package": "neuralnet",
+    "oncran": true
+  },
+  {
+    "package": "tpc",
     "oncran": true
   }
 ]
