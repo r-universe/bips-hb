@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/bips-hb/bips-hb.r-universe.dev
 	branch = HEAD
+[submodule "CVN"]
+	path = CVN
+	url = https://github.com/bips-hb/CVN
 [submodule "SRSim"]
 	path = SRSim
 	url = https://github.com/bips-hb/srsim
