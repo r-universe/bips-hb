@@ -20,6 +20,9 @@
 [submodule "cpi"]
 	path = cpi
 	url = https://github.com/bips-hb/cpi
+[submodule "expard"]
+	path = expard
+	url = https://github.com/bips-hb/expard
 [submodule "innsight"]
 	path = innsight
 	url = https://github.com/bips-hb/innsight
@@ -38,3 +41,6 @@
 [submodule "tpc"]
 	path = tpc
 	url = https://github.com/bips-hb/tpc
+[submodule "wflsa"]
+	path = wflsa
+	url = https://github.com/bips-hb/wflsa
