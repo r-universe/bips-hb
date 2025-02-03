@@ -5,6 +5,9 @@
 [submodule "CVN"]
 	path = CVN
 	url = https://github.com/bips-hb/CVN
+[submodule "HMMpa"]
+	path = HMMpa
+	url = https://github.com/bips-hb/HMMpa
 [submodule "SRSim"]
 	path = SRSim
 	url = https://github.com/bips-hb/srsim
