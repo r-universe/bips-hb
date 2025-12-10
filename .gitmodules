@@ -38,6 +38,9 @@
 [submodule "pvm"]
 	path = pvm
 	url = https://github.com/bips-hb/pvm
+[submodule "survinng"]
+	path = survinng
+	url = https://github.com/bips-hb/survinng
 [submodule "survnet"]
 	path = survnet
 	url = https://github.com/bips-hb/survnet
