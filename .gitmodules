@@ -8,8 +8,8 @@
 [submodule "HMMpa"]
 	path = HMMpa
 	url = https://github.com/bips-hb/HMMpa
-[submodule "IDEFICS_scalc"]
-	path = IDEFICS_scalc
+[submodule "IDEFICS.scalc"]
+	path = IDEFICS.scalc
 	url = https://github.com/bips-hb/IDEFICS_scalc
 [submodule "SRSim"]
 	path = SRSim
@@ -32,9 +32,6 @@
 [submodule "expard"]
 	path = expard
 	url = https://github.com/bips-hb/expard
-[submodule "ggiraphAlluvial"]
-	path = ggiraphAlluvial
-	url = https://github.com/bips-hb/ggiraphAlluvial
 [submodule "innsight"]
 	path = innsight
 	url = https://github.com/bips-hb/innsight
