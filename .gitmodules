@@ -32,6 +32,9 @@
 [submodule "expard"]
 	path = expard
 	url = https://github.com/bips-hb/expard
+[submodule "ggiraphAlluvial"]
+	path = ggiraphAlluvial
+	url = https://github.com/bips-hb/ggiraphAlluvial
 [submodule "innsight"]
 	path = innsight
 	url = https://github.com/bips-hb/innsight
